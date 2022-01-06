@@ -12,7 +12,7 @@
         <v-text-field
           id="allowed-letters-input"
           v-model="allowedLettersInput"
-          label="Allowed Letters"
+          label="Your Letters"
         />
 
       </v-col>

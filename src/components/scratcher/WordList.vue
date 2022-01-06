@@ -2,6 +2,7 @@
   <div class="word-list-section">
     <h3>Word List</h3>
     <p>Type the words here and the app will determine if they are winners.</p>
+    <p>A word is a winner when all of the letters exist in your letters. </p>
     <p>Put a space between each word</p>
     <v-row>
       <v-col>
